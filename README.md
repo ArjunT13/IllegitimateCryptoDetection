@@ -55,9 +55,6 @@ The application will also display the history of a cryptocurrency since its laun
 6.This system will be able to analyze the legalization of any cryptocurrency so as to liberate the users regarding their investment strategies and prevent them from investing in any illegitimate cryptocurrency.
 
 
+![6ac555a7-2164-434f-9f32-3c8015edf4ba](https://user-images.githubusercontent.com/93787273/148653530-5d3f03a7-6604-417a-b4ab-f5f06ae73279.jpg)
 
-**Methodology** 
-
-1.State Transition Diagram
-
-![plot](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/668e89e4-dc18-4c57-aee3-0b8350ff5920/Untitled.jpeg)
+![21841716-7d21-45ca-99fa-39c78db3676e](https://user-images.githubusercontent.com/93787273/148653527-92d30bb3-1829-4d9c-9035-56a3c3a548fa.jpg)
