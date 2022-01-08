@@ -60,4 +60,4 @@ The application will also display the history of a cryptocurrency since its laun
 
 1.State Transition Diagram
 
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/668e89e4-dc18-4c57-aee3-0b8350ff5920/Untitled.jpeg)
+![plot](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/668e89e4-dc18-4c57-aee3-0b8350ff5920/Untitled.jpeg)
