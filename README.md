@@ -1,8 +1,8 @@
-**Introduction**
+**##Introduction**
 Cryptocurrency is the new digital monetary mechanism that has a lot of risk in its transactions.The lack of regulation, combined with their technical complexity, makes them an attractive target for scammers who would seek to prey on the misinformed. We tackle this problem by making an Illegitimate Crypto Detection System. To summarise ,we have developed this application that helps the user to verify the legitimacy of the cryptocurrency which he poses or wants to purchase and ensures safety from fraud and threats.
 
 
-**Gist about the application(Both Frontend and backend)**
+**##Gist about the application(Both Frontend and backend)**
 For *User interfaces* part we would have a Login Screen that will house one Login option with two fields namely Username and Password.We also have Application Interface Screen to analyse the existing cryptos and we have added created gateway options to invest in such cryptos.Lastly we have a profile screen with the details such as PAN NO> and secured and saved card details, phone numbers and email id of the user.
 
 For *database* part we have used PostgreSQL DBs in production with hundreds of millions of rows with minimal resources.
