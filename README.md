@@ -1,5 +1,6 @@
-**Introduction** - 
+**Introduction**
 Cryptocurrency is the new digital monetary mechanism that has a lot of risk in its transactions.The lack of regulation, combined with their technical complexity, makes them an attractive target for scammers who would seek to prey on the misinformed. We tackle this problem by making an Illegitimate Crypto Detection System. To summarise ,we have developed this application that helps the user to verify the legitimacy of the cryptocurrency which he poses or wants to purchase and ensures safety from fraud and threats.
+
 
 **Gist about the application(Both Frontend and backend)**
 For *User interfaces* part we would have a Login Screen that will house one Login option with two fields namely Username and Password.We also have Application Interface Screen to analyse the existing cryptos and we have added created gateway options to invest in such cryptos.Lastly we have a profile screen with the details such as PAN NO> and secured and saved card details, phone numbers and email id of the user.
@@ -7,6 +8,8 @@ For *User interfaces* part we would have a Login Screen that will house one Logi
 For *database* part we have used PostgreSQL DBs in production with hundreds of millions of rows with minimal resources.
 
 Finally for the *payment system* user will be able to transfer funds from their selected and verified bank accounts only to the application and then use a verification password to invest the amount of money in cryptocurrencies and ICO’s of cryptocurrencies.
+
+
 
 **Some basic prerequisites** 
 The Web Version is compatible with Windows(32-64 bit), IOS operating system.
@@ -18,6 +21,7 @@ User age should be above 18, with a bank account of his/her own.
 The application will necessarily require an active Internet connection for its efficient functioning as the application fetches data from the database over the Internet and also so that it allows problem free payments.
 
 As username and password is required to use the application it is mandatory to open an account for user and host verification.
+
 
 
 **Scope of the project**-
@@ -36,6 +40,7 @@ The model will use Logistic Regression to classify whether a cryptocurrency is l
 The application will also display the history of a cryptocurrency since its launch in the market along with the information of the developer.
 
 
+
 **Goals and objectives**- 
 1.To increase crypto literacy in our community.
 
@@ -49,8 +54,10 @@ The application will also display the history of a cryptocurrency since its laun
 
 6.This system will be able to analyze the legalization of any cryptocurrency so as to liberate the users regarding their investment strategies and prevent them from investing in any illegitimate cryptocurrency.
 
+
+
 **Methodology** 
 
 1.State Transition Diagram
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/046c6abd-73c9-4fb6-815d-878d1eea627a/Untitled.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/668e89e4-dc18-4c57-aee3-0b8350ff5920/Untitled.jpeg)
