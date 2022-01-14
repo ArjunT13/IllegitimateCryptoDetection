@@ -27,6 +27,8 @@ The mobile application will be compatible with android with version Android 4.2 
 
 User age should be above 18, with a bank account of his/her own.
 
+valid aadhar/pan card
+
 The application will necessarily require an active Internet connection for its efficient functioning as the application fetches data from the database over the Internet and also so that it allows problem free payments.
 
 As username and password is required to use the application it is mandatory to open an account for user and host verification.
