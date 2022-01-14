@@ -1,7 +1,7 @@
 # Introduction
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Illegitimat+Crypto+Detection"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Illegitimate+Crypto+Detection"></a>
 </p>
 
 Cryptocurrency is the new digital monetary mechanism that has a lot of risk in its transactions.The lack of regulation, combined with their technical complexity, makes them an attractive target for scammers who would seek to prey on the misinformed. We tackle this problem by making an Illegitimate Crypto Detection System. To summarise ,we have developed this application that helps the user to verify the legitimacy of the cryptocurrency which he poses or wants to purchase and ensures safety from fraud and threats.
