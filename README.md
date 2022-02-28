@@ -71,4 +71,5 @@ The application will also display the history of a cryptocurrency since its laun
 
 ![6ac555a7-2164-434f-9f32-3c8015edf4ba](https://user-images.githubusercontent.com/93787273/148653530-5d3f03a7-6604-417a-b4ab-f5f06ae73279.jpg)
 
+
 ![21841716-7d21-45ca-99fa-39c78db3676e](https://user-images.githubusercontent.com/93787273/148653527-92d30bb3-1829-4d9c-9035-56a3c3a548fa.jpg)
